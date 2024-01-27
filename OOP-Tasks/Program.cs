@@ -8,7 +8,6 @@ namespace OOP_Tasks
         {
             UI ui = new UI();
             ui.Print();
-
         }
     }
 }
